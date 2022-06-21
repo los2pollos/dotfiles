@@ -1,7 +1,7 @@
 # dotfiles
 My dotfiles on Cinnamon managed with [chezmoi](https://www.chezmoi.io/)
 
-![image](![image](https://user-images.githubusercontent.com/66679495/174815327-567206af-1d75-42ab-aa17-e1d96ee3aad1.png)
+(![image](https://user-images.githubusercontent.com/66679495/174815327-567206af-1d75-42ab-aa17-e1d96ee3aad1.png)
 > [portrayed wallpaper](https://pbs.twimg.com/media/E_OaZuLUUAA-Hj9?format=jpg&name=large)
 
 
